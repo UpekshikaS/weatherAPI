@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignment\\WeatherApiWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|d:\\assignment\\weatherapiwebapplication\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|d:\\assignment\\weatherapiwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|d:\\assignment\\weatherapiwebapplication\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|d:\\assignment\\weatherapiwebapplication\\weatherapiwebapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|solutionrelative:weatherapiwebapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|d:\\assignment\\weatherapiwebapplication\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|d:\\assignment\\weatherapiwebapplication\\models\\weatherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49F709B-3753-41A0-918E-176DA964DBB7}|WeatherApiWebApplication.csproj|solutionrelative:models\\weatherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Assignment\\WeatherApiWebApplication\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Assignment\\WeatherApiWebApplication\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-12T16:24:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherApiWebApplication",
+              "DocumentMoniker": "D:\\Assignment\\WeatherApiWebApplication\\WeatherApiWebApplication.csproj",
+              "RelativeDocumentMoniker": "WeatherApiWebApplication.csproj",
+              "ToolTip": "D:\\Assignment\\WeatherApiWebApplication\\WeatherApiWebApplication.csproj",
+              "RelativeToolTip": "WeatherApiWebApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T16:15:52.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\Assignment\\WeatherApiWebApplication\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\Assignment\\WeatherApiWebApplication\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:13:31.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignment\\WeatherApiWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Assignment\\WeatherApiWebApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:11:55.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "D:\\Assignment\\WeatherApiWebApplication\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "D:\\Assignment\\WeatherApiWebApplication\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:06:27.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherClass.cs",
+              "DocumentMoniker": "D:\\Assignment\\WeatherApiWebApplication\\Models\\WeatherClass.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherClass.cs",
+              "ToolTip": "D:\\Assignment\\WeatherApiWebApplication\\Models\\WeatherClass.cs",
+              "RelativeToolTip": "Models\\WeatherClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:03:09.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

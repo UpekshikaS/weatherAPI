@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "WeatherApiWebApplication.Controllers.WeatherController",
+    "Method": "GetAll",
+    "RelativePath": "api/Weather",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherApiWebApplication.Controllers.WeatherController",
+    "Method": "GetWeather",
+    "RelativePath": "api/Weather/{city}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherApiWebApplication.Controllers.WeatherController",
+    "Method": "GetById",
+    "RelativePath": "api/Weather/id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
