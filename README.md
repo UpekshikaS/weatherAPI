@@ -55,13 +55,15 @@ CREATE TABLE Weather (
 );
 
 ```
-### 3. Configure Environment Variable
-Set your OpenWeatherMap API key as an environment variable.
-
+### 3. Configure Environment Variable Database connection string.
+- Set your OpenWeatherMap API key as an environment variable.
 - Windows CMD
 ```
 setx WEATHER_API_KEY "your_api_key_here"
 ```
+- Add your database connection sring to appsettings.json file.
+
+
 ### 4. Run the API project
 - Run the API project and it will open a web browser and from there you can test the  endpoints.
 ---
