@@ -41,10 +41,10 @@ git clone https://github.com/UpekshikaS/weatherAPI.git
 ### 2. Create the Database
 Use the included Weather.sql file in SQL Server Management Studio.
 ```
-CREATE DATABASE WeatherDb;
+CREATE DATABASE WhetherDetails;
 GO
 
-USE WeatherDb;
+USE WhetherDetails;
 
 CREATE TABLE Weather (
     Id INT IDENTITY(1,1) PRIMARY KEY,
