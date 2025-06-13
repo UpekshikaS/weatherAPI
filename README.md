@@ -57,10 +57,12 @@ CREATE TABLE Weather (
 ```
 ### 3. Configure Environment Variable Database connection string.
 - Set your OpenWeatherMap API key as an environment variable.
-- Windows CMD
-```
-setx WEATHER_API_KEY "your_api_key_here"
-```
+  - Right click on your project solution
+  - Go to the Debug tab click on "Open debug launch profiles UI"
+  - You can find area "Environment Variables" and add name and value in thegiven area.
+    
+    ![Add environment Key steps](https://github.com/user-attachments/assets/438fc7fd-ac2b-4e36-ad55-9b887938f772)
+
 - Add your database connection sring to appsettings.json file.
 
 
